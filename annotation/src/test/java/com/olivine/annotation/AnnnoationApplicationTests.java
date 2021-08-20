@@ -1,4 +1,4 @@
-package com.olivine.annnoation;
+package com.olivine.annotation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

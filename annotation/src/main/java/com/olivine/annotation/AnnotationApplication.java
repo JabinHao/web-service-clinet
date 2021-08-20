@@ -1,13 +1,13 @@
-package com.olivine.annnoation;
+package com.olivine.annotation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AnnnoationApplication {
+public class AnnotationApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AnnnoationApplication.class, args);
+        SpringApplication.run(AnnotationApplication.class, args);
     }
 
 }
