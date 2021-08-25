@@ -4,6 +4,8 @@ server:
 spring:
   application:
     name: function-server
-    data:
+  webflux:
+    base-path: /function
+  data:
       mongodb:
         uri: mongodb://localhost:27017/function
